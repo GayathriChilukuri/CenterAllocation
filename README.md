@@ -2,4 +2,4 @@
 
 #pull the requests
 
-##allocation Halltickets
+##allocating Halltickets
